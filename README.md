@@ -56,7 +56,7 @@ O projeto **Literalura** é uma aplicação Java desenvolvida com o framework Sp
   - `ConverteDados`: Deserializa JSON em objetos Java.
   - `IConverteDados`: Interface para o serviço de conversão de dados.
 
-- **`repository`**: Gerencia a persistência dos dados.
+- **`repository`**: Gerencia a persistência dos dados usando JPQL para manipulação dos dados.
   - `AutorRepository`: Interface para manipulação de dados de autores.
   - `LivroRepository`: Interface para manipulação de dados de livros.
 
@@ -68,7 +68,7 @@ O projeto **Literalura** é uma aplicação Java desenvolvida com o framework Sp
   - `Principal`: Lógica principal para execução.
 
 ### Ponto de entrada:
-- **`LiteraluraApplication`**: 🚀 Classe principal que inicializa o Spring Boot e executa a lógica definida na classe `Principal`.
+- **`LiteraluraApplication`**: Classe principal que inicializa o Spring Boot e executa a lógica definida na classe `Principal`.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -78,6 +78,17 @@ O projeto **Literalura** é uma aplicação Java desenvolvida com o framework Sp
 - **Spring Data JPA**: Para persistência de dados.
 - **PostgreSQL**: Banco de dados relacional em memória para testes e desenvolvimento.
 - **Java HTTP Client**: Para realizar requisições HTTP.
+
+## 📦 Dependências
+
+- **Spring Boot Starter Data JPA**: Facilita a integração com bancos de dados relacionais utilizando JPA (Java Persistence API).  
+  _Grupo: `org.springframework.boot`, Artefato: `spring-boot-starter-data-jpa`_
+
+- **PostgreSQL Driver**: Necessário para a conexão com o banco de dados PostgreSQL.  
+  _Grupo: `org.postgresql`, Artefato: `postgresql`_
+
+- **Jackson Databind**: Utilizado para a serialização e desserialização de objetos Java para JSON e vice-versa.  
+  _Grupo: `com.fasterxml.jackson.core`, Artefato: `jackson-databind`, Versão: `2.18.2`_
 
 ## 💻 Desenvolvimento
 
