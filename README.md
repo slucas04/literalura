@@ -21,27 +21,29 @@ O projeto **Literalura** é uma aplicação Java desenvolvida com o framework Sp
 
   <div align="center">
     <a href="https://gutendex.com" target="_blank">
-      <img width="320" alt="gutendex" src="https://github.com/user-attachments/assets/c70eacd3-182a-4a12-86ad-c9170c90eda9" />
+      <img width="320" alt="gutendex" src="https://github.com/user-attachments/assets/0ea02d8e-7bee-4b98-85c3-75817bf963ce" />
     </a>
   </div>
 
 - Conversão de dados JSON para objetos Java (deserialização).
 
   <div align="center">
-    <img width="250" alt="livro" src="https://github.com/user-attachments/assets/5fb89a0c-bbdd-4953-8974-98bca1c23848" />
-    <img width="265" alt="autor" src="https://github.com/user-attachments/assets/5251fe9a-35d9-4674-9a3f-7a13dc5f1b9f" />
+    <img width="250" alt="livro" src="https://github.com/user-attachments/assets/ff3ee7fe-3e98-4051-87f0-1083d92e2cf5" />
+    <img width="265" alt="autor" src="https://github.com/user-attachments/assets/f070a85f-d724-49ce-8e57-e7d506082fb8" />
   </div>
 
 - Armazenamento de informações de autores e livros no banco de dados.
 
   <div align="center">
-    <img width="555" alt="db" src="https://github.com/user-attachments/assets/408c9b4d-0deb-44b2-bc26-9b3d0257aa4f" />
+    <img width="555" alt="db" src="https://github.com/user-attachments/assets/a283e660-70f7-4773-969f-09490fe004ae" />
+
   </div>
 
 - Execução via terminal para interagir com o sistema.
 
   <div align="center">
-    <img width="455" alt="menuliteralura" src="https://github.com/user-attachments/assets/290c84e0-3dca-45ff-9c88-4dd1150bec6a" />
+    <img width="455" alt="menuliteralura" src="https://github.com/user-attachments/assets/07efc3ca-0478-492e-b1fa-d5d3dc3beeee" />
+
   </div>
 
 
