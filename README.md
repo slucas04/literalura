@@ -13,7 +13,7 @@
 
 ## 📝 Descrição do projeto
 
-O projeto **Literalura** é uma aplicação Java desenvolvida com o framework Spring Boot, com o objetivo de consumir dados de uma API externa para gerenciar informações sobre livros e autores. A aplicação utiliza uma estrutura modular que inclui comunicação com APIs, conversão de dados JSON para objetos e persistência no banco de dados PostgreSQL.
+O projeto **Literalura** é uma aplicação Java desenvolvida com o framework Spring Boot, com o objetivo de consumir dados de uma API externa para gerenciar informações sobre livros e autores. A aplicação utiliza uma estrutura modular que inclui comunicação com APIs, conversão de dados JSON para objetos e persistência no banco de dados relacional PostgreSQL.
 
 ## ✨ Funcionalidades
 
